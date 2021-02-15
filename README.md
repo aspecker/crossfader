@@ -9,3 +9,12 @@
 ## S-Fader
 
 A web app using `Nodejs` and `React`
+
+## public .env configs
+
+```
+PORT_SERVER=7000
+PORT=3000
+```
+
+##
